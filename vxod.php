@@ -52,7 +52,7 @@ type="text" value=""></label></p>
 <p><label for="user_pass">Пароль<br>
  <input class="input" id="password" name="password" size="20"
   type="password" value=""></label></p> 
-	<p class="submit"><form action="register.php"><input class="button"  name="login" type= "submit" value="Log In"></form> </p>
+	<p class="submit"><form action="register.php"><input class="button"  name="login" type= "submit" value="Log Inn"></form> </p>
 	<p class="regtext">Ще не зареєстровані?<a href= "register.php">Регистрация</a>!</p>
    </form>
  </div>

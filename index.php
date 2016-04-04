@@ -62,7 +62,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classics</h3>
 					<span class="meta__brand">Sherlock Holmes</span>
-					<span class="meta__price">$7.59</span>
+					<span class="meta__price">Pay if u loss: $7.59</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -75,7 +75,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Дэдпул. Том 1. Мертвые президенты</span>
-					<span class="meta__price">$5</span>
+					<span class="meta__price">Pay if u loss: $5</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -88,7 +88,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Biography</h3>
 					<span class="meta__brand">Steve Jobs (Hardcover)</span>
-					<span class="meta__price">$19.99</span>
+					<span class="meta__price">Pay if u loss: $19.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -101,7 +101,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">Don Quixote</span>
-					<span class="meta__price">$4.79</span>
+					<span class="meta__price">Pay if u loss: $4.79</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -114,7 +114,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">Властелин колец. Возвращение короля</span>
-					<span class="meta__price">$5</span>
+					<span class="meta__price">Pay if u loss: $5</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -127,7 +127,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">Stalingrad: The Fateful Siege, 1942-1943</span>
-					<span class="meta__price">$10.99</span>
+					<span class="meta__price">Pay if u loss: $10.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -140,7 +140,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Бэтмен. Возвращение Темного Рыцаря</span>
-					<span class="meta__price">$7</span>
+					<span class="meta__price">Pay if u loss: $7</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -153,7 +153,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">The old man & the sea</span>
-					<span class="meta__price">$5.49</span>
+					<span class="meta__price">Pay if u loss: $5.49</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -166,7 +166,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Супермен непобежденный</span>
-					<span class="meta__price">$12</span>
+					<span class="meta__price">Pay if u loss: $12</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -179,7 +179,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Biography</h3>
 					<span class="meta__brand">Night (The Night Trilogy, #1) </span>
-					<span class="meta__price">$9.99</span>
+					<span class="meta__price">Pay if u loss: $9.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -192,7 +192,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">War And Peace</span>
-					<span class="meta__price">$9.99</span>
+					<span class="meta__price">Pay if u loss: $9.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -205,7 +205,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">Відьмак. Останнє бажання</span>
-					<span class="meta__price">$3</span>
+					<span class="meta__price">Pay if u loss: $3</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -218,7 +218,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">1776</span>
-					<span class="meta__price">$12.00</span>
+					<span class="meta__price">Pay if u loss: $12.00</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -231,7 +231,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Халк. Том 1. Битва титанов</span>
-					<span class="meta__price">$10</span>
+					<span class="meta__price">Pay if u loss: $10</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -244,7 +244,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Biography</h3>
 					<span class="meta__brand">The Rise of Theodore Roosevelt (Paperback) </span>
-					<span class="meta__price">$8.69</span>
+					<span class="meta__price">Pay if u loss: $8.69</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -257,7 +257,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">Гобіт, або Туди і звідти</span>
-					<span class="meta__price">$4</span>
+					<span class="meta__price">Pay if u loss: $4</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -270,7 +270,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Отряд самоубийц. Книга 1. Пинок в зубы</span>
-					<span class="meta__price">$11</span>
+					<span class="meta__price">Pay if u loss: $11</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -283,7 +283,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">John Adams</span>
-					<span class="meta__price">$15.99</span>
+					<span class="meta__price">Pay if u loss: $15.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -296,7 +296,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">Divine comedy</span>
-					<span class="meta__price">$5.99</span>
+					<span class="meta__price">Pay if u loss: $5.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -309,7 +309,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Смерть Росомахи</span>
-					<span class="meta__price">$10</span>
+					<span class="meta__price">Pay if u loss: $10</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -322,7 +322,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Biography</h3>
 					<span class="meta__brand">Born Standing Up: A Comic's Life (Hardcover) </span>
-					<span class="meta__price">$5.99</span>
+					<span class="meta__price">Pay if u loss: $5.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -335,7 +335,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">Игра престолов</span>
-					<span class="meta__price">$8</span>
+					<span class="meta__price">Pay if u loss: $8</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -348,7 +348,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">The Guns of August</span>
-					<span class="meta__price">$9.99</span>
+					<span class="meta__price">Pay if u loss: $9.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -361,7 +361,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Флэш. Книга 1. Только вперед</span>
-					<span class="meta__price">$6</span>
+					<span class="meta__price">Pay if u loss: $6</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -374,7 +374,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">Frankenstein</span>
-					<span class="meta__price">$6.00</span>
+					<span class="meta__price">Pay if u loss: $6.00</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -387,7 +387,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Люди X. Том 1. Люди будущего</span>
-					<span class="meta__price">$5</span>
+					<span class="meta__price">Pay if u loss: $5</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -400,7 +400,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Classic</h3>
 					<span class="meta__brand">Alice in Wonderland</span>
-					<span class="meta__price">$4.69</span>
+					<span class="meta__price">Pay if u loss: $4.69</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -413,7 +413,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">Герой империума</span>
-					<span class="meta__price">$25</span>
+					<span class="meta__price">Pay if u loss: $25</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -426,7 +426,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">Battle Cry of Freedom: The Civil War Era</span>
-					<span class="meta__price">$9.99</span>
+					<span class="meta__price">Pay if u loss: $9.99</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -439,7 +439,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Человек-Паук. Том 1. Голод</span>
-					<span class="meta__price">$6</span>
+					<span class="meta__price">Pay if u loss: $6</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -452,7 +452,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Fantastic</h3>
 					<span class="meta__brand">5-я волна</span>
-					<span class="meta__price">$7</span>
+					<span class="meta__price">Pay if u loss: $7</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -465,7 +465,7 @@
 				<div class="meta">
 					<h3 class="meta__title">Comics</h3>
 					<span class="meta__brand">Люди Икс против команды "Алтимейтс". Война Супергероев</span>
-					<span class="meta__price">$8</span>
+					<span class="meta__price">Pay if u loss: $8</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
@@ -478,7 +478,7 @@
 				<div class="meta">
 					<h3 class="meta__title">History</h3>
 					<span class="meta__brand">Unbroken: A World War II Story of Survival, Resilience, and Redemption </span>
-					<span class="meta__price">$7.59</span>
+					<span class="meta__price">Pay if u loss: $7.59</span>
 				</div>
 				<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="text-hidden">Add to cart</span></button>
 			</div>
